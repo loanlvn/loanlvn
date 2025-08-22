@@ -6,7 +6,8 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
+- 📍 Studying at TechOf School in Portugal, Lisbon
 - 🎓 Currently studying web development with the ambition to build **full-stack applications**.  
 - 💻 Completed the **frontend curriculum**, now learning **backend development** with **Node.js**, **MongoDB/Mongoose**, and **SQL**.  
 - 🌍 Languages: **French**, **Portuguese**, and **English** (fluent).  
