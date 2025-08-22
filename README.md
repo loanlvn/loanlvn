@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Loan LAVIGNE 👋</h1>
 
-<!--
-**loanlvn/loanlvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+23 y/o — Web Development Student • Future App Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎓 Currently studying web development with the ambition to build **full-stack applications**.  
+- 💻 Completed the **frontend curriculum**, now learning **backend development** with **Node.js**, **MongoDB/Mongoose**, and **SQL**.  
+- 🌍 Languages: **French**, **Portuguese**, and **English** (fluent).  
+
+### 🛠️ Tech Stack  
+- **Frontend**: React (TypeScript & JavaScript), Vite, TailwindCSS  
+- **Backend**: Node.js, Express, MongoDB/Mongoose, SQL  
+- **Services & Tools**: Firebase, Mailtrap  
+- **Practices**: Clean code, performance-oriented, user-focused  
+
+---
+
+📫 **How to reach me**  
+- Email: [loanlavigne.pro@gmail.com](mailto:loanlavigne.pro@gmail.com)  
+- LinkedIn: **  
+- GitHub: [@loanlvn](https://github.com/loanlvn)  
